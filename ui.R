@@ -18,7 +18,7 @@ The ssviz package together with this website's Shiny implementation is written b
 Running from your local R installation?
 <pre>
 require(shiny)
-runGitHub(\"ssviz-shiny\",username=\"dianalow\")
+runGitHub(\"ssviz-web\",username=\"dianalow\")
 </pre>
 </p>
 <hr>
