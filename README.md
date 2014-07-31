@@ -1,10 +1,17 @@
 ssviz-web
 =========
 
-The files listed here are for the web (Shiny) implementation of ssviz
+These files are for the web (Shiny) implementation of the ssviz R package
 
 This implementation is currently available at : http://www.eglab.org:3838/apps/ssviz/
 
 The Bioconductor package for ssviz is avaiable at : http://bioconductor.org/packages/3.0/bioc/html/ssviz.html
 
+To run these files directly from R,
+```R
+require(shiny)
+runGitHub("ssviz-web",username="dianalow")
+```
+
+Regards,
 Diana
